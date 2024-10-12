@@ -39,7 +39,7 @@ public static double  SqureRoot(int a)
    return Math.sqrt(a); 
     
 }
-public static double  CubeRoot(int a)
+public static double  CubeRoot(double a)
 {
    return Math.cbrt(a);    
 }
